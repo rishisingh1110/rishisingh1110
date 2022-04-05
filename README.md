@@ -27,6 +27,18 @@ Hi there 👋
 </br>
 <br/>
 
+🔭 My Projects
+<br/>
+<div>
+<a href="https://github.com/rishisingh1110/Netflix.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishisingh1110&repo=Netflix&theme=dark" />
+
+</a>
+<a href="https://github.com/rishisingh1110/Sogo-Hotel-Website.git">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishisingh1110&repo=Sogo-Hotel-Website&theme=dark" />
+</a>
+</div>
+
 ## :earth_asia: Find me else where
 </br>
  <p align='center'>
