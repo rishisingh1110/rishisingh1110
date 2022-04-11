@@ -3,6 +3,8 @@
 </div>
 Hi there 👋
 <br/><br/>
+Observant and innovative aspiring full stack developer. Specialized in MERN stack, love learning new things. Collaborative, team player who is passionate about building user-centric products. Eager to be a part of a team.
+<br/><br/>
 <ul>
   <li>I'm Rishi. A budding Full Stack Developer.</li>
   <li>Currently a Senior Computer Science Undergrad.</li>
@@ -43,6 +45,9 @@ Hi there 👋
 </br>
  <p align='center'>
   <br/>
+  <a href="mailto:rishisingh1110@gmail.com">
+    <img src="https://img.shields.io/badge/rishisingh1110@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
   <a href="https://twitter.com/rishisingh1110/">
     <img src="https://img.shields.io/badge/rishisingh1110-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
