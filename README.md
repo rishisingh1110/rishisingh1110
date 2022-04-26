@@ -36,8 +36,11 @@ Observant and innovative aspiring full stack developer. Specialized in MERN stac
   <img style="height:150px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishisingh1110&repo=Netflix&theme=dark" />
 
 </a>
-<a href="https://github.com/rishisingh1110/Sogo-Hotel-Website.git">
- <img style="height:150px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishisingh1110&repo=Sogo-Hotel-Website&theme=dark" />
+  <a href="https://github.com/rishisingh1110/Asteroid-Shooting-Game.git">
+ <img style="height:150px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishisingh1110&repo=Asteroid-Shooting-Game&theme=dark" />
+</a>
+<a  href="https://github.com/rishisingh1110/Sogo-Hotel-Website.git">
+ <img style="height:150px, margin-left: 50px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishisingh1110&repo=Sogo-Hotel-Website&theme=dark" />
 </a>
 </div>
 
