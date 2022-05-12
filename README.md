@@ -3,12 +3,12 @@
 </div>
 Hi there 👋
 <br/><br/>
-Observant and innovative aspiring full stack developer. Specialized in MERN stack, love learning new things. Collaborative, team player who is passionate about building user-centric products. Eager to be a part of a team.
+Observant and innovative aspiring web developer. Specialized in JavaScript & React, loves learning new things. Collaborative, team player who is passionate about building user-centric products. Eager to be a part of a team.
 <br/><br/>
 <ul>
-  <li>I'm Rishi. A budding Full Stack Developer.</li>
+  <li>I'm Rishi. A budding Web Developer.</li>
   <li>Currently a Senior Computer Science Undergrad.</li>
-  <li>Learning Full Stack Web Development at <a href="https://www.masaischool.com/">Masai School</a></li>
+  <li>Learning Web Development at <a href="https://www.masaischool.com/">Masai School</a></li>
 </ul>
 
 ## 🛠 Interests/Skills
@@ -22,8 +22,7 @@ Observant and innovative aspiring full stack developer. Specialized in MERN stac
   ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
   ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-  ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+  
   
 </div> 
 </br>
