@@ -47,15 +47,16 @@ Observant and innovative aspiring web developer. Specialized in JavaScript & Rea
 </br>
  <p align='center'>
   <br/>
+  <a href="https://www.linkedin.com/in/rishisingh1110/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:rishisingh1110@gmail.com">
     <img src="https://img.shields.io/badge/rishisingh1110@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/rishisingh1110/">
     <img src="https://img.shields.io/badge/rishisingh1110-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rishisingh1110/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  
    
  </p>
 
