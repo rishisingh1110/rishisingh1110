@@ -37,7 +37,7 @@ Observant and innovative aspiring web developer. Specialized in JavaScript & Rea
 </a>
   
 <a  href="https://github.com/rishisingh1110/Sogo-Hotel-Website.git">
- <img style="height:150px, margin-left: 50px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishisingh1110&repo=Sogo-Hotel-Website&theme=dark" />
+ <img style="height:150px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishisingh1110&repo=Sogo-Hotel-Website&theme=dark" />
 </a>
 </div>
 
