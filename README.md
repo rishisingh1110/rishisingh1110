@@ -6,9 +6,9 @@ Hi there 👋
 Observant and innovative aspiring web developer. Specialized in JavaScript & React, loves learning new things. Collaborative, team player who is passionate about building user-centric products. Eager to be a part of a team.
 <br/><br/>
 <ul>
-  <li>I'm Rishi. A budding Web Developer.</li>
-  <li>Currently a Senior Computer Science Undergrad.</li>
-  <li>Learning Web Development at <a href="https://www.masaischool.com/">Masai School</a></li>
+  <li>I'm Rishi. Software Developer .</li>
+<!--   <li>Currently a Senior Computer Science Undergrad.</li> -->
+<!--   <li>Learning Web Development at <a href="https://www.masaischool.com/">Masai School</a></li> -->
 </ul>
 
 ## 🛠 Interests/Skills
