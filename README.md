@@ -6,9 +6,9 @@ Hi there 👋
 Observant and innovative aspiring web developer. Specialized in JavaScript & React, loves learning new things. Collaborative, team player who is passionate about building user-centric products. Eager to be a part of a team.
 <br/><br/>
 <ul>
-  <li>I'm Rishi. Software Developer .</li>
+  <li>I'm Rishi. Software Developer@ Knolskape. .</li>
 <!--   <li>Currently a Senior Computer Science Undergrad.</li> -->
-<!--   <li>Learning Web Development at <a href="https://www.masaischool.com/">Masai School</a></li> -->
+<!--   <li>Learning Web Development at Knolskape.</li> -->
 </ul>
 
 ## 🛠 Interests/Skills
@@ -21,7 +21,7 @@ Observant and innovative aspiring web developer. Specialized in JavaScript & Rea
   ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
   ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+  
   
   
 </div> 
