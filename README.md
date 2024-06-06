@@ -5,11 +5,11 @@ Hi there 👋
 <br/><br/>
 Observant and innovative aspiring web developer. Specialized in JavaScript & React, loves learning new things. Collaborative, team player who is passionate about building user-centric products. Eager to be a part of a team.
 <br/><br/>
-<ul>
-  <li>I'm Rishi. Software Developer@ Knolskape. .</li>
+<p>
+  I'm Rishi. Software Developer@ Knolskape. .
 <!--   <li>Currently a Senior Computer Science Undergrad.</li> -->
 <!--   <li>Learning Web Development at Knolskape.</li> -->
-</ul>
+</p>
 
 ## 🛠 Interests/Skills
 
