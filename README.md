@@ -45,6 +45,9 @@ Observant and innovative aspiring web developer. Specialized in JavaScript & Rea
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishisingh1110&repo=Sogo-Hotel-Website&theme=dark" />
 </a>
 </div>
+<p>
+  Here is the link to my portfolio: https://rishisingh1110.github.io/folio
+</p>
 
 
 
