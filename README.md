@@ -31,15 +31,17 @@ Observant and innovative aspiring web developer. Specialized in JavaScript & Rea
 🔭 My Projects
 <br/>
 <div>
-  
+
+  <a href="https://github.com/rishisingh1110/Expenzo.git">
+  <img style="height:150px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishisingh1110&repo=Expenzo&theme=dark" />
+
+</a> 
+
   <a href="https://github.com/rishisingh1110/CakeShop.git">
   <img style="height:150px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishisingh1110&repo=CakeShop&theme=dark" />
 
 </a>
-<a href="https://github.com/rishisingh1110/Netflix.git">
-  <img style="height:150px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishisingh1110&repo=Netflix&theme=dark" />
 
-</a>
   
 <a  href="https://github.com/rishisingh1110/Sogo-Hotel-Website.git">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishisingh1110&repo=Sogo-Hotel-Website&theme=dark" />
